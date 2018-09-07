@@ -1,0 +1,11 @@
+[testcls1.test1]
+test_folder=auto_test_web
+username=aaa@126.com
+password=123456
+login_type = web
+
+[testcls2.test1]
+test_folder=auto_test_web
+username=bbb@126.com
+password=123456
+login_type = app

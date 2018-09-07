@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+    <testclass name="testcls1">123
+        <testcase name="test1">
+            <rank>1</rank>
+            <year>2008</year>
+            <exp>141100</exp>
+        </testcase>
+        <testcase name="test2">
+            <rank>2</rank>
+            <year>2009</year>
+            <exp>11100</exp>
+        </testcase>
+    </testclass>
+    <testclass name="testcls2">456
+        <testcase name="test1">
+            <rank>3</rank>
+            <year>2008</year>
+            <exp>12100</exp>
+        </testcase>
+        <testcase name="test2">
+            <rank>4</rank>
+            <year>2009</year>
+            <exp>14300</exp>
+        </testcase>
+    </testclass>
+</data>

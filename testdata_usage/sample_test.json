@@ -1,0 +1,28 @@
+{
+  "testclass": {
+    "testcls1": {
+      "testcase": {
+        "test1": {
+          "key1": "value1",
+          "key2": "value2"
+        },
+        "test2": {
+          "xxx": "xvalue",
+          "yyy": "yvalue"
+        }
+      }
+    },
+    "testcls2": {
+      "testcase": {
+        "test1": {
+          "key1": "v111",
+          "key2": "v222"
+        },
+        "test2": {
+          "xxx": "xvalue",
+          "yyy": "yvalue"
+        }
+      }
+    }
+  }
+}
